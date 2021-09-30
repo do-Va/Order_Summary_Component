@@ -139,6 +139,7 @@ body {
   font-weight: 900;
   font-size: 14px;
   box-shadow: 0 5px 30px hsl(223 47% 23% / 0.6);
+  cursor: pointer;
 }
 
 .btn-secondary {
